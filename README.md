@@ -4,6 +4,4 @@ CÓMO USAR:
 
 2. Ingresar el mensaje personalizado a enviar.
 
-3. Hacer click en el link proporcionado en la columna "Acción" para abrir WhatsApp con el mensaje y número propporcionados.
-
-4. Hacer envio manualmente.
+3. Hacer click en el botón "Enviar mensajes" 
